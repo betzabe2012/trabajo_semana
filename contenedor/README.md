@@ -84,4 +84,4 @@ footer__fut
 
 ![](contenedor/celu.jpeg)
 
-![](contenedor/img/pc.jpeg)
+![](contenedor/pc.jpeg)
