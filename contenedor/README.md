@@ -81,6 +81,6 @@ footer__fut
 
 imagenes:
 
-![](assets/img/celu.jpg)
+![](imagenes/celu.jpg)
 
-![](asets/img/pc.jpg)
+![](imagenes/pc.jpg)
