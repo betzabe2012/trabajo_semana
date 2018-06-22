@@ -46,12 +46,13 @@ Layout : crear layout con boostrap
 
 Fuentes : fuentes entregadas por cliente.
 
-		*titulos : raleway-buld.ttf
+		titulos : raleway-buld.ttf
 
-		*Parrafos : raleway-extralight.ttf
+		Parrafos : raleway-extralight.ttf
 
-		*parrafo footer: open sans-regular.ttf
-colores :
+		parrafo footer: open sans-regular.ttf
+
+##colores :
 
 letras de titulos : #000000
 
@@ -79,8 +80,8 @@ background__compra
 
 footer__fut
 
-imagenes:
+#imagenes
 
-![](imagenes/celu.jpg)
+![](contenedor/imagenes/celu.jpeg)
 
-![](imagenes/pc.jpg)
+![](contenedor/imagenes/pc.jpeg)
